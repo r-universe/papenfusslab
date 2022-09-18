@@ -3,13 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "svaNUMT"]
-	path = svaNUMT
-	url = https://github.com/papenfusslab/svanumt
-	shallow = true
-	registered = true
-[submodule "svaRetro"]
-	path = svaRetro
-	url = https://github.com/papenfusslab/svaretro
-	shallow = true
-	registered = true
