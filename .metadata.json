@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "svaNUMT"
+  },
+  {
+    "package": "svaRetro"
+  }
+]
